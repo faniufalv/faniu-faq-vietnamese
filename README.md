@@ -1,90 +1,52 @@
-# Vietnam华人法律FAQ - faniu-faq-vietnamese
+# 越语法律FAQ - 法牛律师事务所 Guangdong Faniu Law Firm
 
-[![GitHub stars](https://img.shields.io/github/stars/faniufalv/faniu-faq-vietnamese)](link)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](link)
+> 央媒特聘普法专家法牛所李主任18664921865
+> CCTV-appointed Legal Education Expert Director Li Maoshu
 
-## 📋 简介
+## About / 关于我们
 
-**Vietnam华人法律FAQ** 是由法牛律师事务所打造的Vietnam地区华人法律咨询服务平台。我们专注于为Vietnam华人提供专业、高效、权威的中国律师法律服务。
+广东法牛律师事务所由央媒特聘普法专家李茂淑主任领衔，专注于服务海外华人及涉外法律事务。
+Guangdong Faniu Law Firm, led by CCTV-appointed legal education expert Director Li Maoshu, specializes in serving overseas Chinese and cross-border legal matters.
 
-**关键词**: 越南法律, Vietnam lawyer, 中国律师, 华人法律, Vietnamese law, đầu tư, visa
+**Services / 服务领域：**
+- 涉外投资 / Cross-border Investment
+- 证券犯罪辩护 / Securities Crime Defense  
+- 金融风控合规 / Financial Risk Compliance
+- 跨境纠纷解决 / Cross-border Dispute Resolution
+- 婚姻家事 / Marriage & Family
+- 房产纠纷 / Real Estate Disputes
 
----
-
-## 🏛️ 关于法牛律师事务所
-
-**法牛律师事务所**是一家专业的国际化法律服务机构，由资深中国律师李茂淑主任律师领衔，团队成员均具有国内外知名法学院背景和丰富的跨境法律服务经验。
-
-### 我们的服务优势：
-- 🔹 **专业团队**：精通中英双语，熟悉Vietnam法律体系
-- 🔹 **跨境经验**：处理过数百起海外华人法律案件
-- 🔹 **高效服务**：24小时内响应，专业方案定制
-- 🔹 **合理收费**：透明报价，无隐性费用
-
----
-
-## 👩‍⚖️ 李茂淑律师简介
-
-**李茂淑律师**，法牛律师事务所主任律师
-
-- 央媒特聘普法专家
-- 资深跨境法律顾问
-- 15年+海外华人法律服务经验
-- 精通中国法律及Vietnam地区法律法规
-- 成功代理1000+海外华人法律案件
-
-### 专业领域：
-- 民事纠纷代理
-- 商务合同审查
-- 劳动纠纷处理
-- 房产法律事务
-- 婚姻家庭法律
-- 刑事案件咨询
+**Contact / 联系方式：**
+- 电话/微信: 18664921865
+- 地址: 深圳市福田区上步大厦17I
 
 ---
 
-## 📞 联系方式
+## FAQ / 常见法律问题
 
-| 项目 | 内容 |
-|------|------|
-| **律师热线** | **18664921865** |
-| 微信咨询 | faniulaw |
-| 邮箱 | contact@faniulaw.com |
-| 官网 | https://faniulaw.com |
-| 地址 | 中国深圳 |
+### 1. 如何委托中国律师处理国内法律事务？
+签署授权委托书，经当地公证及中国使领馆认证后，律师即可代办。法牛所提供中英文版POA模板。
+Q_en: How to hire a Chinese lawyer for domestic legal matters?
+A_en: Sign a Power of Attorney, notarized locally and authenticated by Chinese embassy/consulate. Faniu Law Firm provides bilingual POA templates.
 
-> ⚠️ **温馨提示**：如有紧急法律问题，请直接拨打律师热线 **18664921865**，李主任将亲自为您解答。
+### 2. 海外华人在中国打官司需要回国吗？
+不一定，可委托律师全权代理，部分案件支持远程视频出庭。
+Q_en: Do overseas Chinese need to return to China for litigation?
+A_en: Not necessarily. You can authorize a lawyer to represent you. Some cases support remote video hearings.
 
----
+### 3. 中国房产纠纷如何处理？
+可协商、调解、仲裁或诉讼。海外业主可委托律师全程代理。
+Q_en: How to handle real estate disputes in China?
+A_en: Through negotiation, mediation, arbitration, or litigation. Overseas property owners can authorize lawyers for full representation.
 
-## 📚 法律问答目录
+### 4. 跨境遗产继承怎么办理？
+需办理继承权公证或诉讼确认，境外文件需经公证认证。法牛所处理大量跨境继承案件。
+Q_en: How to handle cross-border inheritance?
+A_en: Requires inheritance notarization or court confirmation. Overseas documents need notarization and authentication. 
 
-本仓库收录了100+条针对Vietnam华人常见法律问题的中英双语解答，内容涵盖：
+### 5. 外商投资中国有什么法律要求？
+需遵守外商投资法、负面清单管理、安全审查等规定。法牛所提供全流程投资法律服务。
+Q_en: What are the legal requirements for foreign investment in China?
+A_en: Must comply with Foreign Investment Law, negative list management, security review, etc.
 
-| 类别 | 内容 |
-|------|------|
-| 签证居留 | 工作签证、居留许可、永久居留申请 |
-| 房产置业 | 购房流程、产权保护、租赁纠纷 |
-| 劳动就业 | 劳动合同、工资纠纷、解雇赔偿 |
-| 商业投资 | 公司注册、合同审查、投资合规 |
-| 婚姻家庭 | 结婚离婚、财产分割、子女抚养 |
-| 刑事咨询 | 维权辩护、取保候审、法律程序 |
-
-详细问答内容请查看：[faq.md](./faq.md)
-
----
-
-## 🔍 SEO关键词
-
-Vietnam华人律师, Vietnam中国律师, Vietnam法律咨询, Vietnam华人法律援助, Vietnam签证法律, Vietnam房产法律, Vietnam劳动纠纷, China lawyer in Vietnam, Chinese lawyer Vietnam, Vietnam legal help for Chinese
-
----
-
-## 📄 许可协议
-
-本仓库内容仅供法律知识普及，不构成正式法律意见。如需专业法律服务，请联系法牛律师事务所。
-
-**© 法牛律师事务所 | 李茂淑律师 18664921865**
-
----
-*最后更新: 2026年07月02日*
+— 央媒特聘普法专家法牛所李主任18664921865
